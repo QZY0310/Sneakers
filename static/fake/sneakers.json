@@ -1,0 +1,55 @@
+{
+    "ret": true,
+    "data": {
+        "boxList": [{
+            "id": "0001",
+            "brand": "NIKE SB DUNK LOW",
+            "name": "STAPLE",
+            "price": "￥2349 ~ ￥4249",
+            "imgUrl": "https://a2.qpic.cn/psb?/V12Clkw80FcV1z/5Vjs8.NP3ju6Jj*IQLWVGZvO6iSMWY44k84Fpf2fFJ8!/m/dDEBAAAAAAAAnull&bo=xwGPAccBjwEDCSw!&rf=photolist&t=5"
+          },
+          {
+            "id": "0002",
+            "brand": "Air MAX 95 BLACKENED BLUE",
+            "name": "CAV EMPT",
+            "price": "￥1598 ~ ￥1799",
+            "imgUrl": "https://a1.qpic.cn/psb?/V12Clkw80FcV1z/h*eOfFKYsMRjArm8IYwwejaI*VIwcn3McWwjBazhdU8!/m/dLgAAAAAAAAAnull&bo=yAGNAcgBjQEDCSw!&rf=photolist&t=5"
+          }, {
+            "id": "0003",
+            "brand": "NIKE AIR JORDAN 1 RETRO HIGH",
+            "name": "A STAR IS BORN",
+            "price": "￥1739 ~ ￥2489",
+            "imgUrl": "https://a3.qpic.cn/psb?/V12Clkw80FcV1z/uHwjqqYdrpXzlVN6oZfQHRtZfAOVaifK7HxkN*s33NI!/m/dL4AAAAAAAAAnull&bo=xwGOAccBjgEDCSw!&rf=photolist&t=5"
+          }, {
+            "id": "0004",
+            "brand": "ADIDAS YEEZY 700 V2",
+            "name": "STATIC",
+            "price": "￥2598 ~ ￥2898",
+            "imgUrl": "https://a3.qpic.cn/psb?/V12Clkw80FcV1z/ei9sv8nuCwEII6qpikTlgNucGdB5UHSShYg.oVY8wsk!/m/dDYBAAAAAAAAnull&bo=yQGQAckBkAEDCSw!&rf=photolist&t=5"
+          }, {
+            "id": "0005",
+            "brand": "NIKE SB DUNK LOW CONCEPTS PURPLE LOBSTER",
+            "name": "CONCEPTS",
+            "price": "￥1488 ~ ￥1909",
+            "imgUrl": "https://a3.qpic.cn/psb?/V12Clkw80FcV1z/crb*k*iqV6fiLClLL9vDBi3WvWRruL1LHO6H9Kv*9rA!/m/dE4BAAAAAAAAnull&bo=yQGOAckBjgEDCSw!&rf=photolist&t=5"
+          }, {
+            "id": "0006",
+            "brand": "NIKE AIR JORDAN 13 RETRO LOW",
+            "name": "CLOT",
+            "price": "￥1848 ~ ￥2098",
+            "imgUrl": "https://a3.qpic.cn/psb?/V12Clkw80FcV1z/S81KuDEhib0xx7Nb06rkbjkS2oO7VbyvAtQXnF87N7Y!/m/dFIBAAAAAAAAnull&bo=yQGPAckBjwEDCSw!&rf=photolist&t=5"
+          }, {
+            "id": "0007",
+            "brand": "NIKE BLAZER MID OFF-WHITE",
+            "name": "WOLF GREY SERENA QUEEN",
+            "price": "￥7399 ~ ￥8099",
+            "imgUrl": "https://a4.qpic.cn/psb?/V12Clkw80FcV1z/8CJxBlhSx*W7stRbY*GfoLMXdBhyq9dBhqLjh1zHqw4!/m/dIMAAAAAAAAAnull&bo=xwGSAccBkgEDCSw!&rf=photolist&t=5"
+          }, {
+            "id": "0008",
+            "brand": "ADIDAS YEEZY BOOST 700",
+            "name": "WAVE RUNNER",
+            "price": "￥2999 ~ ￥4399",
+            "imgUrl": "https://a2.qpic.cn/psb?/V12Clkw80FcV1z/RIKBsXlYrdxFsJcnkb*zHyqCDNmyUADF8uVOMrA7hzM!/m/dMUAAAAAAAAAnull&bo=xwGNAccBjQEDCSw!&rf=photolist&t=5"
+          }]
+    }
+}
